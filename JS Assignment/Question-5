@@ -1,0 +1,14 @@
+(5). What the deference between undefined and undeclare in JavaScript?
+
+-> undefined
+
+undefined is a primitive value in JavaScript that represents an uninitialized or non-existent variable. When a variable is declared but not assigned a value, it is initialized with the value undefined. For example:
+
+    let x;
+    console.log(x); // undefined
+
+-> Undeclared
+
+undeclared refers to a variable that has not been declared at all. In other words, it is a variable that does not exist in the current scope. For example:
+
+    console.log(y); // ReferenceError: y is not defined

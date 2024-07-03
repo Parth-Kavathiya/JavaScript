@@ -1,0 +1,23 @@
+(1). What is JavaScript. How to use it? 
+
+
+--What is JavaScript?
+
+    JavaScript is a high-level, dynamic, and interpreted programming language that is primarily used for client-side scripting on the web. It was created by Brendan Eich in 1995 while he was working at Netscape Communications Corporation. JavaScript is often used to add interactive and dynamic effects to websites, web applications, and mobile applications.
+
+    JavaScript is a versatile language that can be used for both front-end and back-end development. It's commonly used for:
+
+    - Creating interactive web pages and web applications
+    - Developing desktop and mobile applications
+    - Building server-side applications with technologies like Node.js
+    - Creating games and animations
+    - Adding functionality to web pages with APIs and libraries
+
+--How to use JavaScript?
+
+    (1). Adding JavaScript to an HTML file
+    You can add JavaScript to an HTML file in two ways:
+        Method 1: Inline JavaScript
+            Add a <script> tag directly to your HTML file.
+        Method 2: External JavaScript file
+            Create a separate JavaScript file (e.g., script.js) and link it to your HTML file using the <script> tag.

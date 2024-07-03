@@ -1,0 +1,19 @@
+(3).  Define a Data Types in js?
+
+In JavaScript, a data type is a classification of data that determines the type of value a variable can hold and the operations that can be performed on it. JavaScript has several built-in data types, which can be categorized into two main groups: primitive data types and reference data types.
+
+
+Types :
+
+(1). Primitive Variables:
+    - Number: A numeric value, such as 42 or 3.14.
+    - String: A sequence of characters, such as "hello" or 'hello'.
+    - Boolean: A true or false value, such as true or false.
+    - Null: A special value that represents the absence of any object value, denoted by null.
+    - Undefined: A special value that represents an uninitialized variable, denoted by undefined.
+
+(2). Reference Variables:
+    - Object: A collection of key-value pairs, such as { name: 'Parth', age: 19 }.
+    - Array: A collection of values, such as [1, 2, 3, 4, 5].
+    - Function: A block of code that can be executed, such as function add(x, y) { return x + y; }.
+
